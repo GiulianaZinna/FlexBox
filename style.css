@@ -1,0 +1,15 @@
+.contenedorCentrado{
+    display: flex;
+    justify-content:center;
+}
+
+.contenedorseparado{
+    display: flex;
+    justify-content:space-around;
+}
+
+.contenedorAlineadoDerecha{
+    display: flex;
+    align-items:flex-end;
+    flex-direction:column;
+}
